@@ -1,11 +1,2 @@
 # azur
-<!DOCTYPE html>
-<html>
-<head>
-    <title>WebApp PaaS Test</title>
-</head>
-<body>
-    <h1>Halo breee, ini Web App PaaS!</h1>
-    <p>Bedanya sama VM? Di sini gua gak ribet install OS/Apache, tinggal upload aja 🚀☕</p>
-</body>
-</html>
+#coba_azure_repo_github
